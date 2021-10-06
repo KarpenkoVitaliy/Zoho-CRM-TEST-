@@ -1,0 +1,72 @@
+{
+            "data": [
+                {
+                    "Owner": {
+                        "id": "5036892000000336001"
+                    },
+                    "Who_Id": {
+                        "id": "5036892000000343197"
+                    },
+                    "What_Id": {
+                        "id": "5036892000000379027"
+                    },
+                    "$se_module": "Deals",
+                    "Status": "In Progress",
+                    "Send_Notification_Email": false,
+                    "Description": "Перше тестове завдання для угоди з компанією TOLTEK",
+                    "Due_Date": "2021-10-04",
+                    "Priority": "Normal",
+                    "send_notification": false,
+                    "Subject": "Complete CRM Getting Started steps",
+                    "Remind_At": null
+                }
+            ]
+        }
+{
+            "data": [
+                {
+                    "Owner": {
+                        "id": "5036892000000336001"
+                    },
+                    "Who_Id": {
+                        "id": "5036892000000343197"
+                    },
+                    "What_Id": {
+                        "id": "5036892000000379027"
+                    },
+                    "$se_module": "Deals",
+                    "Status": "In Progress",
+                    "Send_Notification_Email": false,
+                    "Description": "Перше тестове завдання для угоди з компанією TOLTEK",
+                    "Due_Date": "2021-10-04",
+                    "Priority": "Normal",
+                    "send_notification": false,
+                    "Subject": "Complete CRM Getting Started steps",
+                    "Remind_At": null
+                }
+            ]
+        }
+{
+            "data": [
+                {
+                    "Owner": {
+                        "id": "5036892000000336001"
+                    },
+                    "Who_Id": {
+                        "id": "5036892000000343197"
+                    },
+                    "What_Id": {
+                        "id": "5036892000000379027"
+                    },
+                    "$se_module": "Deals",
+                    "Status": "In Progress",
+                    "Send_Notification_Email": false,
+                    "Description": "first test task",
+                    "Due_Date": "2021-10-06",
+                    "Priority": "Normal",
+                    "send_notification": false,
+                    "Subject": "Complete CRM Getting Started steps",
+                    "Remind_At": null
+                }
+            ]
+        }
